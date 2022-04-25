@@ -4,6 +4,7 @@ The directory contains data for the manuscript
 Rosetta_models directory contains Abs homology models and corresponding score files. 
 
 All other directories contain MD simulation data (files with coordinates (*crd) and random seed information (*out))
+
 HEPC3 (straight):
 - HEPC3_Fv_crystal_relaxed2
 - trial_0/HEPC3_Fv_crystal_relaxed2
