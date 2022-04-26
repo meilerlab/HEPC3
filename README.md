@@ -3,7 +3,7 @@ The directory contains data for the manuscript
 
 Rosetta_models directory contains Abs homology models and corresponding score files. 
 
-All other directories contain MD simulation data (files with velocities and coordinates snapshots output every 20 ns (*crd), and random seed information (*out)). 
+All other directories contain MD simulation data. Each subdirectory contains Amber restart files (.crd; coordinates and velocities for all solute and solvent atoms) and Amber simulation output files (.out; simulation data, including input information and random seeds).
 
 HEPC3 (straight):
 - HEPC3_Fv_crystal_relaxed2
